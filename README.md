@@ -29,6 +29,7 @@
 - https://github.com/Krastanov/optomechspin_heralded_entanglement
 - https://github.com/Krastanov/qevo
 - https://github.com/Krastanov/neural-decoder
+- https://github.com/Krastanov/hamiltonian_estimation
 
 </td>
 
